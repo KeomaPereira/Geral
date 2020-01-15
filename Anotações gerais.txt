@@ -5,9 +5,12 @@ CURSO JAVA
     * Nunca fazer commit direto na master, sempre utilizar branches;
 
 
-
-
 SPRING
   * Template Spring boot
   * https://start.spring.io/
+  
+  
+BOAS PRÁTICAS
+  Solid;
+  Clean code;
 
