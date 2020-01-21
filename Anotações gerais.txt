@@ -3,6 +3,7 @@ CURSO JAVA
   GIT
     * Utilizar padrão de comentários ao realizar commits no GIT. Exemplo: feature\NomeDaFeature ou bugFix\NomeDoBug;
     * Nunca fazer commit direto na master, sempre utilizar branches;
+    * Não subir para o git arquivos na IDE;
 
 
 SPRING
