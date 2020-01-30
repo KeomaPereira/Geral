@@ -9,6 +9,7 @@ CURSO JAVA
 SPRING
   * Template Spring boot
   * https://start.spring.io/
+  * Artigos, manuais etc: https://www.baeldung.com/
   
   
 BOAS PRÁTICAS
